@@ -4,3 +4,6 @@
 - git add: sobe pra stage area
 - git commit -m "texto": salva alteracoes num commit, coloca uma explicacao
 - git log: lista todos os commits
+- git checkout nomebranch
+- git branch
+- git branch nomebranch
